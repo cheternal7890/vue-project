@@ -21,11 +21,12 @@ header {
   display: flex;
   position: fixed;
   width: 100%;
-  opacity: 0.95;
+  z-index: 100;
   justify-content: center;
   background-color: #2e333e;
   padding: 1rem;
 }
+
 
 nav {
   width: 100%;
@@ -34,7 +35,7 @@ nav {
 }
 
 nav a.router-link-exact-active {
-  color: #38a1ec;
+  color: rgb(173, 199, 255);
 }
 
 nav a.router-link-exact-active:hover {

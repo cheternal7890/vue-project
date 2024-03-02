@@ -16,6 +16,6 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    color: #38a1ec;
+    color: rgb(153, 185, 255);
   }
 }
