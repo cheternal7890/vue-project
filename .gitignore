@@ -13,6 +13,7 @@ dist
 dist-ssr
 coverage
 *.local
+src\services\igdbService.js
 
 /cypress/videos/
 /cypress/screenshots/
